@@ -11,7 +11,7 @@
 
 ![固定级别全部展示](https://upload-images.jianshu.io/upload_images/6826673-936a42dc81db60bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#实现
+# 实现
 在实现的时候，自己写了一个很简单的扩展myclusterlayer，代码如下：
 ```js
 var myClusterLayer = function (options) {
